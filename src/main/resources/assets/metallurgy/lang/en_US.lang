@@ -1,0 +1,7 @@
+item.metallurgy_rock.name=Rock
+item.metallurgy_crude_rock_sword.name=Rock Knife
+item.metallurgy_crude_rock_pickaxe.name=Rock Mining Hammer
+item.metallurgy_crude_rock_shovel.name=Rock Spade
+item.metallurgy_crude_rock_axe.name=Rock Felling Blade
+item.metallurgy_crude_rock_hoe.name=Tilling Rock
+tile.metallurgy_firepit.name=Fire Pit
