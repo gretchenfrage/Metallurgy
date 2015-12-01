@@ -4,4 +4,4 @@ item.metallurgy_crude_rock_pickaxe.name=Rock Mining Hammer
 item.metallurgy_crude_rock_shovel.name=Rock Spade
 item.metallurgy_crude_rock_axe.name=Rock Lumber Knife
 item.metallurgy_crude_rock_hoe.name=Tilling Rock
-tile.metallurgy_firepit.name=Fire Pit
+tile.metallurgy_camp_fire.name=Fire Pit

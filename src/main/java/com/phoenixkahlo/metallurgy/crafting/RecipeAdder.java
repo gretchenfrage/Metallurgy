@@ -1,5 +1,6 @@
 package com.phoenixkahlo.metallurgy.crafting;
 
+import com.phoenixkahlo.metallurgy.blocks.BlockManager;
 import com.phoenixkahlo.metallurgy.items.ItemManager;
 import com.phoenixkahlo.metallurgy.tools.ToolManager;
 
@@ -13,6 +14,7 @@ public class RecipeAdder {
 
 	public static void init() {
 		GameRegistry.addShapelessRecipe(new ItemStack(ItemManager.ROCK), Blocks.dirt);
+		GameRegistry.addShapedRecipe(new ItemStack(BlockManager.CAMP_FIRE), " X ", "X X", " X ", 'X', Blocks.cobblestone);
 		
 		GameRegistry.addShapelessRecipe(new ItemStack(ToolManager.CRUDE_ROCK_PICKAXE), ItemManager.ROCK);
 		GameRegistry.addShapedRecipe(new ItemStack(ToolManager.CRUDE_ROCK_AXE), " X", "X ", 'X', Blocks.cobblestone);
